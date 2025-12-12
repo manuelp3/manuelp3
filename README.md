@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java
 - 📫 How to reach me: manuelvinpaul@gmail.com
 - ⚡ Fun fact: I like the Sixers🏀
-- Check out my <a href="https://manuelp-12.github.io/">personal website/>!
+- Check out my <a href="https://manuelp-12.github.io/">personal website</>!
 
 <!---
 Manuelp-12/Manuelp-12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
