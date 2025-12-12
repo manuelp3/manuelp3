@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manuelp-12
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning Python
 - 📫 How to reach me: manuelvinpaul@gmail.com
 - ⚡ Fun fact: I like the Sixers🏀
 - Check out my <a href="https://manuelp-12.github.io/">personal website</a>!
