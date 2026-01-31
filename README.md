@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Manuelp-12
+- 👋 Hi, I’m @manuelp3
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: manuelvinpaul@gmail.com
